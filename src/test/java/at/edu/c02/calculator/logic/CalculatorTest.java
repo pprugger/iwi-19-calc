@@ -53,7 +53,7 @@ public class CalculatorTest {
 
 	}
 	
-	
+	@Test
 	public void testSimpleModOperation() throws Exception {
 
 		Calculator calc = new CalculatorImpl();
